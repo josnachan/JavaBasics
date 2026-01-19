@@ -7,6 +7,6 @@ public class Subtract {
         double num3 = num1 - num2;
         System.out.println("result = "+ num3);
         System.out.println("Sreedhar");
-        System.out.println("Ananya");
+
     }
     }
