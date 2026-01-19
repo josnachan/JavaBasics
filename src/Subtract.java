@@ -1,10 +1,10 @@
 public class Subtract {
     public static void main(String[] args) {
 
-        int num1 = 5;
-        int num2 = 3;
+        double num1 = 5.5;
+        double num2 = 3.3;
 
-        int num3 = num1 - num2;
+        double num3 = num1 - num2;
         System.out.println("result = "+ num3);
     }
     }
